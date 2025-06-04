@@ -10,7 +10,7 @@ int main() {
     int pontosTuristicos1, pontosTuristicos2;
     float densidade1, densidade2, pibPerCapita1, pibPerCapita2;
 
-    // Entrada de dados da primeira carta
+    // Dados da primeira carta
     printf("Informe os dados da primeira carta:\n");
     printf("Estado (A-H): ");
     scanf(" %c", &estado1);
@@ -27,7 +27,7 @@ int main() {
     printf("Número de Pontos Turísticos: ");
     scanf("%d", &pontosTuristicos1);
 
-    // Entrada de dados da segunda carta
+    // Dados da segunda carta
     printf("\nInforme os dados da segunda carta:\n");
     printf("Estado (A-H): ");
     scanf(" %c", &estado2);
